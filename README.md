@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DavidAvanzini Software Developer, and t
 - 👀 I’m interested in Java,Python, Linux,Docker,iot , DataScience/Machine Learning
 - 🌱 I’m currently learning Pythorch/ML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/davidavanzini/
 
 <!---
 DavidAvanzini/DavidAvanzini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
