@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DavidAvanzini Software softwareeengineer Developer, and tech enthusiast
+- 👋 Hi, I’m @DavidAvanzini Software Engineer Developer, and tech enthusiast
 - 👀 I’m interested in Java,Python, Linux,Docker,iot , DataScience/Machine Learning
 - 🌱 I’m currently learning Pythorch/ML
 - 📫 How to reach me https://www.linkedin.com/in/davidavanzini/
