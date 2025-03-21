@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidAvanzini Software Engineer Developer, and tech enthusiast
 - 👀 I’m interested in Java,Python, Linux,Docker,iot , DataScience/Machine Learning
-- 🌱 I’m currently learning Pythorch/ML
+- 🌱 I’m currently learning MLOPs
 - 📫 How to reach me https://www.linkedin.com/in/davidavanzini/
 
 <!---
